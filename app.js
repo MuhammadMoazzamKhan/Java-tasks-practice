@@ -196,3 +196,12 @@
 // var fullAndFinnal = jkk.slice(0,17) + kkj + jkk.slice(18);
 // console.log(fullAndFinnal);
 
+// var str = "muhammad moazzam khan";
+// var words = str.split(" ");
+// var arr = [];
+// for(var i = 0; i < words.length; i++){
+//     var result = words[i][0].toUpperCase() + words[i].slice(1);
+//     console.log(result);
+//     arr.push(result);
+// }
+// console.log(arr.join(" "));

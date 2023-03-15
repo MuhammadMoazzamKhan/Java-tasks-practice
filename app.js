@@ -205,3 +205,61 @@
 //     arr.push(result);
 // }
 // console.log(arr.join(" "));
+
+
+// var arr = ["dj","karachi","lahore","qoita","peshawar"];
+// console.log(arr);
+// var arr1 = arr.splice(0,1,"Islamabad");
+// console.log(arr1);
+
+
+// var arr = ["papa","mama","dada","phoppo"];
+// console.log(arr.indexOf("phoppo"));
+
+// var str = "Muhammah Moazzam khan";
+// console.log(str[1]);
+
+// var arr = "papa , mama , dada , phoppo , dada , dada ,  khalo , dada ";
+// arr = arr.replaceAll(/dada/g,"chacha");
+// console.log(arr);
+
+// var num = 99.92345;
+// var numOfStars = Math.round(num);
+// console.log(numOfStars);
+
+// var num = 99.2345;
+// var numOfStars = Math.ceil(num);
+// console.log(numOfStars);
+
+// var num = 99.92345;
+// var numOfStars = Math.floor(num);
+// console.log(numOfStars);
+
+// console.log(Math.random() * );
+
+// var user = prompt("Enter your name");
+// var user1 = prompt("Second Person! Enter your name");
+// var first = prompt("player1 which will you choice in between (head and tail)");
+// var random = Math.random() * 1;
+// console.log(random);
+// var round = Math.round(random);
+// console.log(round);
+// if(round == 1 ){
+//     alert( user + " win");
+// }
+// else if(round == 0){
+//     alert(user1 + " win");
+// }
+
+
+// var passwordCriteria = "ABDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz"
+// var password = "";
+// var passwordLenght = 10;
+// var index;
+// for(var i = 0; i < passwordLenght; i++){
+//     index = Math.floor(Math.random() * passwordCriteria.length);
+//     // console.log(index);
+//     // console.log(passwordCriteria[index]);
+//     password += passwordCriteria[index];
+// }
+// console.log(password);
